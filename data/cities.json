@@ -47,6 +47,18 @@
         "lng": "7.514648437500001"
       },
       "id": 98443198
+    },
+    {
+      "cityName": "Ndali",
+      "country": "Benin",
+      "emoji": "🇧🇯",
+      "date": "2023-08-30T22:28:24.784Z",
+      "notes": "I didn't really enjoy my time here",
+      "position": {
+        "lat": "9.687398430760624",
+        "lng": "2.3291015625000004"
+      },
+      "id": 98443199
     }
   ]
 }
